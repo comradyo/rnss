@@ -4,3 +4,4 @@ cifar-100-python.tar.gz
 *.pth
 *.onnx
 ONNX_script
+методички
